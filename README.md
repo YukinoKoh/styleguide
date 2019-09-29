@@ -1,4 +1,4 @@
-This project is to write style guidelines with components
+This project is to write style guidelines with components. Because of the size, I haven't uploaded the dependent node modules.
 
 This project was constructed with [Create React App](https://github.com/facebook/create-react-app).
 
